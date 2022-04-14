@@ -14,23 +14,23 @@ global.APIs = {
 
 // Apikey Website Api
 global.APIKeys = {
-	'https://zenzapi.xyz': 'Masukin Apikey', // Ambil apikey di zenz biar fitur yg make api work
+	'https://zenzapi.xyz': '50213C75AF', // Ambil apikey di zenz biar fitur yg make api work
 }
 
 // Other
-global.owner = ['6281575886399','6281575886399','6281575886399']
-global.premium = ['6281575886399']
-global.ownernomer = '6281575886399'
-global.ownername = 'RiychDwayne'
-global.botname = 'Chika-Md'
-global.footer = 'RiychDwayne'
-global.ig = 'https://instagram.com/riychdwayne'
-global.email = 'riychh.20@gmail.com'
+global.owner = ['6281290867594','6281290867594','6281290867594']
+global.premium = ['6281290867594
+global.ownernomer = '6281290867594'
+global.ownername = 'Tristan YT'
+global.botname = 'IzumiBot'
+global.footer = 'Tristan'
+global.ig = 'https://instagram.com/tristangameryt4'
+global.email = 'tristanaditya13@gmail.com'
 global.region = 'Indonesia'
-global.sc = 'https://youtube.com/channel/UCtM-pDaaGVRe4BJ7w4qE4Bw'
+global.sc = '-'
 global.myweb = 'https://api-riychdwayne.herokuap.com'
-global.packname = 'Chika-Md'
-global.author = 'WhatsApp Bot'
+global.packname = 'Tristan'
+global.author = 'IzumiBot'
 global.sessionName = 'chika'
 global.prefa = ['','!','.','🐦','🐤','🗿']
 global.sp = '⭔'
@@ -47,7 +47,7 @@ global.mess = {
 }
 global.limitawal = {
     premium: "Infinity",
-    free: 100
+    free: 50
 }
 global.thumb = fs.readFileSync('./image/chika.jpg')
 
